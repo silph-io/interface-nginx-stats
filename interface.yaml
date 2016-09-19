@@ -1,0 +1,4 @@
+name: nginx-stats
+summary: Stats for NGINX
+version: 1
+repo: https://github.com/silph-io/interface-nginx-stats.git
