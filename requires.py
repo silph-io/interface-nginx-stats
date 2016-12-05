@@ -5,7 +5,7 @@ from charms.reactive import scopes
 
 
 class RequiresNginxStats(RelationBase):
-    scope = scopes.UNIT
+    scope = scopes.GLOBAL
 
     auto_accessors = ['status_url']
 
